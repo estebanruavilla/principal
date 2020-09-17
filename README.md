@@ -28,7 +28,8 @@
     <h3>Hora de subir mis cambios</h3><br>
 <p> Luego de realizar tus cambios en tu copia del repositorio y hacer "commit" y "push", hay que realizar un paso más para que tus cambios se vuelvan uno con el proyecto original.<br>
       Para realizar esta acción y que tus cambios sean integrados con éxito al proyecto. Es necesario ir al proyecto original e ir a la sección "Pull request"<br>
-      Luego, seleccionamos en la opción "New pull request". Al momento de hacerlo, nos comparará la rama original del proyecto con la de nuestra copia.<br>
+      Luego, seleccionamos en la opción "New pull request". Luego, tenemos que seleccionar "compare across forks" y nos aparecerá dos ramas a comparar.<br>
+      Modificaremos la rama del lado derecho para que sea el de la copia de nuestro repositorio, un ejemplo de como se llamaría seria "nombredeusuario/principal"<br>
       Solo tendremos que subir un breve resumen de los cambios que realizamos y darle a "commit". ya de esta forma un administrador moderará tus cambios y los aprobará o rechazará, llevando así un control del proyecto principal</p>
    <h3>Q&A más frecuentes</h3>
    <h4>Mi copia del proyecto está "desincronizado" con respecto al proyecto original</h4>                                                              
