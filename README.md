@@ -10,12 +10,12 @@
   evitar el uso de la consola.</p>
   <br><br><br>
 <h1>Tareas pendientes del proyecto</h1>
-<li>
-  <ul>Re-crear documentación del proyecto</ul>
-   <ul>Re-creación de interfaz gráfica</ul>
-   <ul>Añadir nuevas funciones al programa</ul>
-   <ul>Mejorar el código ya existente mediante creación de funciones u otros métodos</ul>
-</li>
+<ul>
+  <li>Re-crear documentación del proyecto</li>
+   <li>Re-creación de interfaz gráfica</li>
+   <li>Añadir nuevas funciones al programa</li>
+   <li>Mejorar el código ya existente mediante creación de funciones u otros métodos</li>
+</ul>
 
 <h3>Cómo colaborar en el proyecto</h3><br>
 <p>Para colaborar, es necesario hacer un "fork" al proyecto dandole click al botón.<br>
@@ -27,10 +27,9 @@
    Seleccionamos la primera opción que sería contribuir al proyecto original(To contribute to the parent project) ya estarías listo para contribuir al proyecto.</p><br><br>
     <h3>Hora de subir mis cambios</h3><br>
 <p> Luego de realizar tus cambios en tu copia del repositorio y hacer "commit" y "push", hay que realizar un paso más para que tus cambios se vuelvan uno con el proyecto original.<br>
-      Para realizar esta acción y que tus cambios sean integrados con éxito al proyecto. Es necesario ir al proyecto original e ir a la sección "Pull request"<br>
+      Para realizar esta acción y que tus cambios sean integrados con éxito al proyecto. Es necesario ir al proyecto original e ir a la sección "Pull request"<br><br>
       Luego, seleccionamos en la opción "New pull request". Luego, tenemos que seleccionar "compare across forks" y nos aparecerá dos ramas a comparar.<br>
       Modificaremos la rama del lado derecho para que sea el de la copia de nuestro repositorio, un ejemplo de como se llamaría seria "nombredeusuario/principal"<br>
       Solo tendremos que subir un breve resumen de los cambios que realizamos y darle a "commit". ya de esta forma un administrador moderará tus cambios y los aprobará o rechazará, llevando así un control del proyecto principal</p>
    <h3>Q&A más frecuentes</h3>
-   <h4>Mi copia del proyecto está "desincronizado" con respecto al proyecto original</h4>                                                              
-   <p></p>                                                             
+                                                           
