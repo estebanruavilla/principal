@@ -18,4 +18,18 @@
 </li>
 
 <h3>Cómo colaborar en el proyecto</h3><br>
-<p>Para colaborar, es necesario hacer un "fork" al proyecto</p>
+<p>Para colaborar, es necesario hacer un "fork" al proyecto dandole click al botón.<br>
+    <img src="/documentación/imgs/fork.PNG" width="220" height="240" /><br>
+  Una vez realizado, se debió haber creado una copia del proyecto en su "repositorio" de Github.<br>
+  Ahora, usted solo tiene que dirigirse a la copia hecha en su repositorio y "clonarla" seleccionando la segunda opción "Open with Github Desktop"<br>
+  <img src="/documentación/imgs/code.png" width="220" height="240" /><br>
+   Al momento de clonar el proyecto, Se le preguntará sobre qué planea hacer con este fork(How are you planning to use this fork?)<br>
+   Seleccionamos la primera opción que sería contribuir al proyecto original(To contribute to the parent project) ya estarías listo para contribuir al proyecto.</p><br><br>
+    <h3>Hora de subir mis cambios</h3><br>
+<p> Luego de realizar tus cambios en tu copia del repositorio y hacer "commit" y "push", hay que realizar un paso más para que tus cambios se vuelvan uno con el proyecto original.<br>
+      Para realizar esta acción y que tus cambios sean integrados con éxito al proyecto. Es necesario ir al proyecto original e ir a la sección "Pull request"<br>
+      Luego, seleccionamos en la opción "New pull request". Al momento de hacerlo, nos comparará la rama original del proyecto con la de nuestra copia.<br>
+      Solo tendremos que subir un breve resumen de los cambios que realizamos y darle a "commit". ya de esta forma un administrador moderará tus cambios y los aprobará o rechazará, llevando así un control del proyecto principal</p>
+   <h3>Q&A más frecuentes</h3>
+   <h4>Mi copia del proyecto está "desincronizado" con respecto al proyecto original</h4>                                                              
+   <p></p>                                                             
